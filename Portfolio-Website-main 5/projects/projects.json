@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Facial Recognition System",
+    "desc": "A facial recognition system identifies individuals by analyzing facial features from images/videos and matching against a database.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/ananyaambekar"
+    }
+  },
+  {
+    "name": "Gesture Language Translator",
+    "desc": "A gesture language translator device converts sign language into spoken language using an ML model to recognize sign gestures.",
+    "image": "jspro",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/ananyaambekar"
+    }
+  },
+  {
+    "name": "Object Detection",
+    "desc": "An object detection system identifies and locates multiple objects within images/videos by leveraging machine learning.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/ananyaambekar"
+    }
+  }
+]
